@@ -1,5 +1,8 @@
 # Ryan Zhang's First CS193 Homework
-## Welcome to GitHub Pages
+## Favorite Things About CS193
+- Educational
+- Simple
+- Useful
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
